@@ -1,0 +1,6 @@
+{
+  "name": "Infi — Luxury Formalwear & Bespoke Atelier",
+  "description": "Premium formalwear, evening gowns, bespoke made-to-measure couture, AI-powered personalized recommendation engine, and targeted VIP campaigns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
